@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "FontLoader": "^0.0.2",
+    "three": "^0.148.0"
+  }
+}
